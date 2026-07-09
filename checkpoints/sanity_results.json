@@ -1,0 +1,10 @@
+{
+  "negative_predictions_test": 119,
+  "negative_predictions_surface_grid": 40,
+  "monotonicity_violations": 0,
+  "monotonicity_steps_checked": 199,
+  "intrinsic_floor_violations": 8,
+  "intrinsic_floor_worst_breach": 1.0538114207037097,
+  "surface_mean_abs_error": 0.08041705181432526,
+  "surface_max_abs_error": 0.6902102668290775
+}
